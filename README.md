@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 [![esthor's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=esthor&show_icons=true&rank_icon=percentile&include_all_commits=true&hide=contribs&theme=dracula#gh-dark-mode-only)](https://github.com/esthor/github-readme-stats#gh-dark-mode-only)
 [![esthor's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=esthor&show_icons=true&rank_icon=percentile&include_all_commits=true&hide=contribs&theme=default#gh-light-mode-only)](https://github.com/esthor/github-readme-stats#gh-light-mode-only)
+-->
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esthor&layout=compact&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5&theme=dracula#gh-dark-mode-only)
