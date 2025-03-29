@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 </a>
 -->
 
-<!-- Git stats -->
+<!-- Rate limited all the time...
+<!-- Git stats
 <picture>
   <source
     srcset="https://github-readme-stats-one-iota.vercel.app/api?username=esthor&show_icons=true&rank_icon=percentile&include_all_commits=true&hide=contribs&theme=dracula"
@@ -44,7 +45,7 @@ Here are some ideas to get you started:
 </picture>
 
 
-<!-- Language stats -->
+<!-- Language stats
 <picture>
   <source
     srcset="https://github-readme-stats-one-iota.vercel.app/api/top-langs/?username=esthor&layout=compact&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5&theme=dracula"
@@ -56,8 +57,7 @@ Here are some ideas to get you started:
   />
   <img height=200 src="https://github-readme-stats-one-iota.vercel.app/api/top-langs/?username=esthor&layout=compact&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5" />
 </picture>
-
-
+-->
 
 
 
