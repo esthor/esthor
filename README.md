@@ -14,14 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-[![esthor's GitHub stats-Dark](https://github-readme-stats-one-iota.vercel.app/api?username=esthor&show_icons=true&rank_icon=percentile&include_all_commits=true&hide=contribs&theme=dracula#gh-dark-mode-only)](https://github.com/esthor/github-readme-stats#gh-dark-mode-only)
-[![esthor's GitHub stats-Light](https://github-readme-stats-one-iota.vercel.app/api?username=esthor&show_icons=true&rank_icon=percentile&include_all_commits=true&hide=contribs&theme=default#gh-light-mode-only)](https://github.com/esthor/github-readme-stats#gh-light-mode-only)
--->
+
+[![esthor's GitHub stats-Dark](https://github-readme-stats-one-iota.vercel.app/api?username=esthor&show_icons=true&rank_icon=percentile&include_all_commits=true&hide=issues&theme=dracula#gh-dark-mode-only)](https://github.com/esthor/github-readme-stats#gh-dark-mode-only)
+[![esthor's GitHub stats-Light](https://github-readme-stats-one-iota.vercel.app/api?username=esthor&show_icons=true&rank_icon=percentile&include_all_commits=true&hide=issues&theme=default#gh-light-mode-only)](https://github.com/esthor/github-readme-stats#gh-light-mode-only)
+
+
+Here's what languages I've been working in the last week:
+
+![esthor's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=esthor\&layout=compact&theme=dracula#gh-dark-mode-only)
+
 <!--
 ![Top Langs](https://github-readme-stats-one-iota.vercel.app/api/top-langs/?username=esthor&layout=compact&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5&theme=dracula#gh-dark-mode-only)
 -->
-<!--
+
+<!-- Git stats -->
+<!-- 
 <a href="https://github.com/esthor/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-one-iota.vercel.app/api?username=esthor&show_icons=true&rank_icon=percentile&include_all_commits=true&hide=contribs&theme=dracula#gh-dark-mode-only" />
 </a>
@@ -29,9 +36,9 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats-one-iota.vercel.app/api/top-langs/?username=esthor&layout=compact&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5&theme=dracula#gh-dark-mode-only" />
 </a>
 -->
-
-<!-- Rate limited all the time...
-<!-- Git stats
+<!-- Rate limited all the time... -->
+<!-- Git stats -->
+<!-- 
 <picture>
   <source
     srcset="https://github-readme-stats-one-iota.vercel.app/api?username=esthor&show_icons=true&rank_icon=percentile&include_all_commits=true&hide=contribs&theme=dracula"
@@ -43,9 +50,10 @@ Here are some ideas to get you started:
   />
   <img height=200 src="https://github-readme-stats-one-iota.vercel.app/api?username=esthor&show_icons=true&rank_icon=percentile&include_all_commits=true&hide=contribs" />
 </picture>
+-->
 
-
-<!-- Language stats
+<!-- Language stats -->
+<!-- 
 <picture>
   <source
     srcset="https://github-readme-stats-one-iota.vercel.app/api/top-langs/?username=esthor&layout=compact&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5&theme=dracula"
