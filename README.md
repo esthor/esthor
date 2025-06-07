@@ -1,75 +1,92 @@
-### Hi there 👋
+<!-- Profile README for esthor -->
 
+<h1 align="center">👋 Hi, I'm esthor</h1>
+
+<p align="center">
+<b>Building LLM-based autonomous agents and DX-focused dev tools.
+    <br><br>
+Polyglotting around in modern Python & TypeScript.
+    <br><br>
+Building tech wealth and finding my nerdjoy.</b>
+</p>
+
+---
+
+## 🧠 Current Focus
+
+- **LLM-Based Agents:** Architecting, building, and optimizing autonomous agents powered by Large Language Models.
+- **Developer Tooling:** Always making development easier and faster to fall into happy-pathing by using or building robust tools for everyone.
+- **Evals & Evaluation Frameworks:** Once you build an agent, you realize one thing: _evals are the most important part of your entire system_.
+- **Polyglot LLM Dev Life:** Modern Python (Pydantic, uv, and friends) and TypeScript
+
+---
+
+## 🚀 Current Main Projects
+
+### [evals.ax](https://github.com/esthor/evals.ax)
+*Open-source framework for agent and MCP authors to develop, run, and share evals with ease.*
+
+- GUIs and APIs for building and running evals
+- Open source, with a SaaS cloud platform
+- Data-driven approach to building reliabile agents
+- Enables you and your team to be confident changes you deploy are *improving* your agents overall on all the axes you care about
+
+---
+
+### [vibecheck.ax](https://vibecheck.ax)
+*Free service for evaluating how optimized websites are for LLM agents.*
+
+- Simple interface: Enter a URL, get actionable insights
+- Designed to help web devs future-proof sites for AI/agent interactions
+- 💡 Turns out a lot of things for accessibility for agents also translate into better web experiences for humans
+
+---
+
+### [allthingsweb.dev](https://allthingsweb.dev)
+*Bay Area meetup community for web & AI enthusiasts.*
+
+- Monthly meetups, events, hackathons, and conferences in San Francisco
+- Building an open community for any and all web devs and AI builders for collaboration and learning
+- No matter your level (trying to break into tech or famous library builder) you are just as welcome as everyone else
+
+---
 <!--
-**esthor/esthor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎙️ Talks
+*Coming soon – links to recordings, slides, and events.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🎙️ Writings / Blog
+*Coming soon – links to posts and articles.*
+
+---
+
+## 📄 CV Highlights
+*Last 10 years – job titles and companies. (To be filled in soon.)*
+
+---
 -->
+## 📊 GitHub Stats
 
-[![esthor's GitHub stats-Dark](https://github-readme-stats-one-iota.vercel.app/api?username=esthor&show_icons=true&rank_icon=percentile&include_all_commits=true&hide=issues&theme=dracula#gh-dark-mode-only)](https://github.com/esthor/github-readme-stats#gh-dark-mode-only)
-[![esthor's GitHub stats-Light](https://github-readme-stats-one-iota.vercel.app/api?username=esthor&show_icons=true&rank_icon=percentile&include_all_commits=true&hide=issues&theme=default#gh-light-mode-only)](https://github.com/esthor/github-readme-stats#gh-light-mode-only)
+<p align="center">
+  <img src="https://github-readme-stats-one-iota.vercel.app/api?username=esthor&show_icons=true&rank_icon=percentile&include_all_commits=true&hide=issues&theme=dracula#gh-dark-mode-only" alt="esthor's GitHub Stats" />
+</p>
 
+---
 
-Here's what languages I've been working in the last week:
+## 🏃 Most Used Languages (Last Week)
 
-![esthor's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=esthor\&layout=compact&theme=dracula#gh-dark-mode-only)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=esthor&layout=compact&theme=dracula#gh-dark-mode-only" alt="WakaTime Stats" />
+</p>
 
-<!--
-![Top Langs](https://github-readme-stats-one-iota.vercel.app/api/top-langs/?username=esthor&layout=compact&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5&theme=dracula#gh-dark-mode-only)
--->
+---
 
-<!-- Git stats -->
-<!-- 
-<a href="https://github.com/esthor/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-one-iota.vercel.app/api?username=esthor&show_icons=true&rank_icon=percentile&include_all_commits=true&hide=contribs&theme=dracula#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/esthor/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-one-iota.vercel.app/api/top-langs/?username=esthor&layout=compact&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5&theme=dracula#gh-dark-mode-only" />
-</a>
--->
-<!-- Rate limited all the time... -->
-<!-- Git stats -->
-<!-- 
-<picture>
-  <source
-    srcset="https://github-readme-stats-one-iota.vercel.app/api?username=esthor&show_icons=true&rank_icon=percentile&include_all_commits=true&hide=contribs&theme=dracula"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-one-iota.vercel.app/api?username=esthor&show_icons=true&rank_icon=percentile&include_all_commits=true&hide=contribs&theme=default#"
-    media="(prefers-color-scheme: light), (prefers-color-schema: no-preference)"
-  />
-  <img height=200 src="https://github-readme-stats-one-iota.vercel.app/api?username=esthor&show_icons=true&rank_icon=percentile&include_all_commits=true&hide=contribs" />
-</picture>
--->
+## 🤝 Connect with Me
 
-<!-- Language stats -->
-<!-- 
-<picture>
-  <source
-    srcset="https://github-readme-stats-one-iota.vercel.app/api/top-langs/?username=esthor&layout=compact&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5&theme=dracula"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-one-iota.vercel.app/api/top-langs/?username=esthor&layout=compact&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-schema: no-preference)"
-  />
-  <img height=200 src="https://github-readme-stats-one-iota.vercel.app/api/top-langs/?username=esthor&layout=compact&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5" />
-</picture>
--->
+<p align="center">
+  <a href="https://x.com/esthor">Twitter</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/erikthorelli">LinkedIn</a>
+</p>
 
-
-
-
-
-
-  
+---
